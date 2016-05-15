@@ -1,0 +1,14 @@
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\bin\Debug\Test_Sniper.exe.config
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\bin\Debug\Test_Sniper.exe
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\bin\Debug\Test_Sniper.pdb
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormCredits.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormDialog.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormHighscore.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormHowToPlay.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormMap.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormMenu.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.FormOptions.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.Properties.Resources.resources
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.csproj.GenerateResource.Cache
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.exe
+C:\Users\Mia\Documents\Visual Studio 2015\Projects\Test_Sniper\Test_Sniper\obj\Debug\Test_Sniper.pdb
